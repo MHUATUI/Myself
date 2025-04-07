@@ -1,6 +1,5 @@
 #include "iostream"
-//git config --global http.proxy socks5 127.0.0.1:7890
-//git config --global https.proxy socks5 127.0.0.1:7890
-int main(int**){
+
+int main(){
     return 0;
 }
